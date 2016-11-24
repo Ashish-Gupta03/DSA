@@ -1,0 +1,7 @@
+i is 0 j is 6 p is 4 r is 2
+k is 1
+i is 2 j is 6 p is 4 r is 2
+k is 4
+i is 5 j is 6 p is 5 r is 2
+k is 5
+19
